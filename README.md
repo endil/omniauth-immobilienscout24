@@ -17,7 +17,7 @@ First add the following line to your application's Gemfile:
 gem 'omniauth-immobilienscout24'
 ```
 
-Execute the ```bundle``` command to install them gem.
+Execute the ```bundle``` command to install the gem.
 
 Next, tell OmniAuth about the ImmobilienScout24 provider. For a RubyOnRails application, your ```config/initializers/omniauth.rb``` file should look like:
 

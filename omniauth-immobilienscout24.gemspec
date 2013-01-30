@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email         = ['niels@endil.de']
   s.description   = 'OmniAuth strategy for ImmobilienScout24'
   s.summary       = s.description
-  s.homepage      = 'https://github.com/nlsrchtr/omniauth-immobilienscout24'
+  s.homepage      = 'https://github.com/endil/omniauth-immobilienscout24'
 
   s.files         = `git ls-files`.split($/)
   s.executables   = s.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

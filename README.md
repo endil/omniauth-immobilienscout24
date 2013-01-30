@@ -63,7 +63,7 @@ Here's an example authentication hash available in ```request.env['omniauth.auth
 
 OmniAuth ImmobilienScout24 is tested under 1.8.7, 1.9.2, 1.9.3 and Ruby Enterprise Edition.
 
-[![Build Status](https://travis-ci.org/nlsrchtr/omniauth-immobilienscout24.png?branch=master)](https://travis-ci.org/nlsrchtr/omniauth-immobilienscout24)
+[![Build Status](https://travis-ci.org/endil/omniauth-immobilienscout24.png?branch=master)](https://travis-ci.org/endil/omniauth-immobilienscout24)
 
 ## License
 

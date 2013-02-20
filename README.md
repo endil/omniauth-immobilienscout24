@@ -1,6 +1,6 @@
 # Omniauth ImmobilienScout24
 
-This gem contains the ImmobilienScout24 strategy for OmniAuth.
+This gem contains the [ImmobilienScout24](http://www.immobilienscout24.de/) strategy for [OmniAuth](https://github.com/intridea/omniauth/).
 
 ImmobilienScout24 uses [OAuth 1.0a](http://oauth.net/core/1.0a/). For information on the implementation details check out the [documentation](http://developerwiki.immobilienscout24.de/wiki/Authentication).
 
@@ -19,7 +19,7 @@ gem 'omniauth-immobilienscout24'
 
 Execute the ```bundle``` command to install the gem.
 
-Next, tell OmniAuth about the ImmobilienScout24 provider. For a RubyOnRails application, your ```config/initializers/omniauth.rb``` file should look like:
+Next, tell OmniAuth about the ImmobilienScout24 provider. For a Ruby on Rails application, your ```config/initializers/omniauth.rb``` file should look like:
 
 ```ruby
 Rails.application.config.middleware.use OmniAuth::Builder do

@@ -64,7 +64,7 @@ Here's an example authentication hash available in ```request.env['omniauth.auth
 [![Gem Version](https://badge.fury.io/rb/omniauth-immobilienscout24.png)](https://badge.fury.io/rb/omniauth-immobilienscout24)
 [![Code Climate](https://codeclimate.com/github/endil/omniauth-immobilienscout24.png)](https://codeclimate.com/github/endil/omniauth-immobilienscout24)
 
-OmniAuth ImmobilienScout24 is tested under 1.8.7, 1.9.2, 1.9.3 and Ruby Enterprise Edition.
+OmniAuth ImmobilienScout24 is tested under 1.8.7, 1.9.2, 1.9.3, 2.1.0 and Ruby Enterprise Edition.
 
 
 ## License

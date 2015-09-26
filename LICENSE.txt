@@ -1,4 +1,4 @@
-Copyright (c) 2013 endil GmbH
+Copyright (c) 2015 endil GmbH
 
 MIT License
 
